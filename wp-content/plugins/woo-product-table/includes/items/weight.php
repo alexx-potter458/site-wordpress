@@ -1,1 +1,0 @@
-<span class="weight-box" data-weight="<?php echo esc_attr( $data['weight'] ); ?>"><?php echo esc_html( $data['weight'] ); ?></span>
